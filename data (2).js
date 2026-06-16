@@ -73,11 +73,11 @@ const AffiliateLinks = {
    4. Enable Firestore Database → start in production mode
    5. Set Firestore rules (see app.js for the exact rules to paste)
 */
-const FIREBASE_CONFIG = {
-  apiKey:            'YOUR_API_KEY',
-  authDomain:        'YOUR_PROJECT.firebaseapp.com',
-  projectId:         'YOUR_PROJECT_ID',
-  storageBucket:     'YOUR_PROJECT.appspot.com',
-  messagingSenderId: 'YOUR_SENDER_ID',
-  appId:             'YOUR_APP_ID',
+const firebaseConfig = {
+  apiKey: "AIzaSyCOYflzZRDc8AYunmFsQaozDJ4N0Mv2VRU",
+  authDomain: "waypoint-claude-ai.firebaseapp.com",
+  projectId: "waypoint-claude-ai",
+  storageBucket: "waypoint-claude-ai.firebasestorage.app",
+  messagingSenderId: "510071995311",
+  appId: "1:510071995311:web:fd7b95dc89484b11090d5a"
 };
