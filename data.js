@@ -36,4 +36,3 @@ const tips = [
         description: "Save important numbers in your phone so they’re easy to reach. Whether it’s a parent, a trusted adult, or emergency services, knowing who to call gives you confidence and keeps you safe."
     }
 ];
-
