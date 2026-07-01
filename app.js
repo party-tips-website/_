@@ -1,6 +1,6 @@
 const tipsContainer = document.getElementById("tips-container");
 
-// Create each full-screen tip card
+// Build full-screen animated tip panels
 function loadTips() {
     tips.forEach(tip => {
         const card = document.createElement("div");
